@@ -9,7 +9,6 @@ namespace seneca
 	///   can be declared; we cannot create instances or use members from it.
 	/// </summary>
 	struct Message;
-
 	/// <summary>
 	/// Interface that must be implemented by every plugin used by the mail system.
 	/// </summary>
