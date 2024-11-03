@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/jxhn/Desktop/bsd/btp/BTP-Workshops/Exercises/week 08/exercise 01/src",
+      "program": "/Users/jxhn/Desktop/bsd/btp/BTP-Workshops/Exercises/week 08/exercise 01/src/build/Debug/outDebug"
+    }
+  ]
+}
