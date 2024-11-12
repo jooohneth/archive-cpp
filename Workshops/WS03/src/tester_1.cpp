@@ -206,7 +206,7 @@ int main(int argc, char** argv)
 		seneca::g_settings.m_tableView = false;
 		seneca::g_settings.m_maxSummaryWidth = 100;
 		seneca::TvShow* show = dynamic_cast<seneca::TvShow*>(col["Agatha All Along"]);
-		std::cout << *show;
+		// std::cout << *show;
 		std::cout << "Average size of an episode ["
 			<< static_cast<int>(show->getEpisodeAverageLength() / 60) << "] minutes.\n";
 		std::cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n";
